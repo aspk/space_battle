@@ -11,8 +11,8 @@ Random Agent on 2 vs 2 gameplay
 | Run Episode   | es_multi_processor_aws.py              |   Done |
 | Genetic Algorithm bot: ES| es_multi_processor_aws.py   |    In Progress |
 | Genetic Algorithm bot: CE| ce_multi_processor_aws.py   |    In Progress |
+| Random agent with seed for validation | random_agent.py      |  In Progress |\
 | RL bot: PPO   | space_battle_ppo.py      |  Not yet started |
-| Random agent with seed for validation | random_agent.py      |  In Progress |
 
 
 Resources:
