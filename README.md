@@ -8,7 +8,6 @@ Random Agent on 2 vs 2 gameplay
 | Tasks         | File names                             | Status  |
 | ------------- |:--------------------------------------:| -----:|
 | Environment   | battle_env.py                          | Done |
-| Run Episode   | es_multi_processor_aws.py              |   Done |
 | Self play bot: CE| self_play_cross_entropy.py   |    Done |
 | Genetic Algorithm bot: ES| es_multi_processor_aws.py   |   In progress |
 | RL bot: PPO   | space_battle_ppo.py      | In progress  |
